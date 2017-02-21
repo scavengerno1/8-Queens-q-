@@ -1,0 +1,1 @@
+Program using goto method to find positions for 8 queens on a chessboard. The program uses backtrack to go back and forth and check each spot on the board to make sure the queens do not hit each other.
